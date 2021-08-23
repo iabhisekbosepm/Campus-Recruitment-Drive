@@ -20,7 +20,7 @@ I would like to thank Dr. Dhimant Ganatara, Professor Jain University for helpin
 4. Play with the data conducting all statistical test or proper EDA
 5. Create Regression Model on Salary with all possible models
 6. Create Classification Model on Placed with all possible models
-7. Confussion Matrix mandatory
+7. Confussion Matrix mandatory for Classification & R^2 mandatory for Regression
 
 # Need accuracy more than 80%
 
