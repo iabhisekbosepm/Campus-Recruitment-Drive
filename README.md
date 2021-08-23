@@ -22,7 +22,7 @@ I would like to thank Dr. Dhimant Ganatara, Professor Jain University for helpin
 6. Create Classification Model on Placed with all possible models
 7. Confussion Matrix mandatory for Classification & R^2 mandatory for Regression
 
-# Need accuracy more than 80%
+# Need accuracy more than 80% on Classification & 0.1 atleast
 
 # Steps:
 1. You need to craete your branch in this repo
