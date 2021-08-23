@@ -18,8 +18,17 @@ I would like to thank Dr. Dhimant Ganatara, Professor Jain University for helpin
 1.Which factor influenced a candidate in getting placed?
 2.Does percentage matters for one to get placed?
 3.Which degree specialization is much demanded by corporate?
-4.Play with the data conducting all statistical tests.
-5.Create Regression Model on Salary
-6.Create Classification Model on Placed
+4.Play with the data conducting all statistical test or proper EDA
+5.Create Regression Model on Salary with all possible models
+6.Create Classification Model on Placed with all possible models
+7.Confussion Matrix mandatory
 
 # Need accuracy more than 80%
+
+# Steps:
+1. You need to craete your branch in this repo
+2. Submit your code in that branch
+3. Need proper Readme.MD files
+4. You can't download & import this data csv, you have to use csv from this link only
+
+# Please contact me, if you have any querry
