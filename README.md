@@ -13,15 +13,14 @@ https://github.com/iabhisekbosepm/Campus-Recruitment-Drive/blob/main/DD.txt
 # Acknowledgement
 I would like to thank Dr. Dhimant Ganatara, Professor Jain University for helping the students by providing this data for us to train pyhton programming
 
-# Questions
-
-1.Which factor influenced a candidate in getting placed?
-2.Does percentage matters for one to get placed?
-3.Which degree specialization is much demanded by corporate?
-4.Play with the data conducting all statistical test or proper EDA
-5.Create Regression Model on Salary with all possible models
-6.Create Classification Model on Placed with all possible models
-7.Confussion Matrix mandatory
+# Questions:
+1. Which factor influenced a candidate in getting placed?
+2. Does percentage matters for one to get placed?
+3. Which degree specialization is much demanded by corporate?
+4. Play with the data conducting all statistical test or proper EDA
+5. Create Regression Model on Salary with all possible models
+6. Create Classification Model on Placed with all possible models
+7. Confussion Matrix mandatory
 
 # Need accuracy more than 80%
 
